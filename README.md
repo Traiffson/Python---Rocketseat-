@@ -1,4 +1,4 @@
-# 📚 Prática - Python-Rocketseat-
+# 📚 Prática - Python-Rocketseat- Aluno: Traiffson Dev Data: 31/05/2026 Curso: Algoritmos e Lógica de Programação - Rocketseat
 Exercício- Projeto 
 
 1. Adivinhe o Número (Truque de Mágica)
