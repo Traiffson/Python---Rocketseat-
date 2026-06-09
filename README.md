@@ -1,6 +1,6 @@
 # 📚 Prática - Vs Code-Python  Rocketseat
 Exercício- Projeto 
-Aluno: Traiffson Dev Data: 08/06/2026 - Rocketseat Python Vs Code ProjetosPython -
+Aluno: Traiffson Dev Data: 08/06/2026 - Rocketseat Python-Vs Code 
 
 1. Adivinhe o Número (Truque de Mágica)
 print("🎩 Pense em um número de 1 a 10...")
