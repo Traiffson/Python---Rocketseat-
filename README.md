@@ -1,4 +1,4 @@
-# Python---Rocketseat-
+# Python-Rocketseat-
 Exercício- Projeto 
 
 1. Adivinhe o Número (Truque de Mágica)
