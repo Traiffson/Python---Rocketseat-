@@ -1,4 +1,4 @@
-# 📚 Prática -  Rocketseat
+# 📚 Prática - Vs Code-Python  Rocketseat
 Exercício- Projeto 
 Aluno: Traiffson Dev Data: 08/06/2026 - Rocketseat Python Vs Code ProjetosPython -
 
