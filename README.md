@@ -1,4 +1,4 @@
-# 📚 Prática - Python - Rocketseat
+# 📚 Prática - Aluno: Traiffson Dev Data: 08/06/2026 - Rocketseat Python Vs Code ProjetosPython - Rocketseat
 Exercício- Projeto 
 
 1. Adivinhe o Número (Truque de Mágica)
